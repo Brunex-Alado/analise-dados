@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-FA8C00?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Badge">
 </div>
 
 ## ▶️ Como Executar o Notebook
@@ -64,7 +65,7 @@ Este projeto realiza uma **análise exploratória de dados (EDA)** com o objetiv
 
 Nessa análise avaliamos o total arrecadado por cada loja, considerando o volume de vendas e os valores envolvidos. O objetivo é entender qual loja gera mais receita de forma geral.
 
-![Faturamento das Lojas](https://raw.githubusercontent.com/Brunex-Alado/analise-dados/refs/heads/main/challenge1-data-science-main/img/Grafico1_Faturamento.png)
+![Faturamento das Lojas](https://raw.githubusercontent.com/Brunex-Alado/analise-dados/refs/heads/main/img/Grafico1_Faturamento.png)
 
 **Análise:**
 
@@ -77,7 +78,7 @@ Nessa análise avaliamos o total arrecadado por cada loja, considerando o volume
 
 A análise por categoria permite identificar quais tipos de produtos são mais vendidos em cada loja, ajudando a compreender o foco e a especialização de cada uma.
 
-![Vendas por Categoria](https://raw.githubusercontent.com/Brunex-Alado/analise-dados/refs/heads/main/challenge1-data-science-main/img/Grafico2_Categoria.png)
+![Vendas por Categoria](https://raw.githubusercontent.com/Brunex-Alado/analise-dados/refs/heads/main/img/Grafico2_Categoria.png)
 
 **Análise:**
 
@@ -91,7 +92,7 @@ A análise por categoria permite identificar quais tipos de produtos são mais v
 
 As avaliações dos clientes foram analisadas para verificar o nível de satisfação em cada loja, o que é um indicador importante para avaliar a qualidade do atendimento e dos produtos.
 
-![Média das Avaliações](https://raw.githubusercontent.com/Brunex-Alado/analise-dados/refs/heads/main/challenge1-data-science-main/img/Grafico3_Avaliacao.png)
+![Média das Avaliações](https://raw.githubusercontent.com/Brunex-Alado/analise-dados/refs/heads/main/img/Grafico3_Avaliacao.png)
 
 **Análise:**
 
@@ -105,7 +106,7 @@ As avaliações dos clientes foram analisadas para verificar o nível de satisfa
 Análise dos 5 produtos com maior e menor número de vendas e faturamento em cada loja, exibida em uma matriz de gráficos (4x4) para facilitar a comparação.
 Aqui investigamos as quantidades totais de produtos vendidos por loja. Essa métrica ajuda a entender o volume de vendas independentemente do valor.
 
-![Produtos Mais Vendidos e Mais Faturados](https://raw.githubusercontent.com/Brunex-Alado/analise-dados/refs/heads/main/challenge1-data-science-main/img/Grafico4_Produtos.png)
+![Produtos Mais Vendidos e Mais Faturados](https://raw.githubusercontent.com/Brunex-Alado/analise-dados/refs/heads/main/img/Grafico4_Produtos.png)
 
 **Análise:**
 
@@ -119,7 +120,7 @@ Aqui investigamos as quantidades totais de produtos vendidos por loja. Essa mét
 
 Essa análise mostra o custo médio de frete por loja, permitindo verificar se o custo logístico pode impactar a margem de lucro ou a experiência do cliente.
 
-![Valor Médio de Frete](https://raw.githubusercontent.com/Brunex-Alado/analise-dados/refs/heads/main/challenge1-data-science-main/img/Grafico5_Frete.png)
+![Valor Médio de Frete](https://raw.githubusercontent.com/Brunex-Alado/analise-dados/refs/heads/main/img/Grafico5_Frete.png)
 
 **Análise:**
 
